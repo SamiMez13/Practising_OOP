@@ -1,0 +1,15 @@
+
+# Build output
+cmake-build-*/
+
+# CLion local settings
+.idea/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# Debug symbols
+*.pdb
