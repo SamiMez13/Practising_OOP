@@ -6,8 +6,8 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(CppOOPProject
-        src/main.cpp
-        src/Person.cpp
+        src/Access_specifier_modifier.cpp
+        src/ClassMembers.cpp
         src/Student.cpp
 )
 
